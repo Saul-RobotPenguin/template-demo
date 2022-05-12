@@ -1,0 +1,16 @@
+{
+  "name": "template-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "carbone": "^3.2.3",
+    "easy-template-x": "^2.1.0"
+  }
+}
